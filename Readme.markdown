@@ -4,15 +4,7 @@ This plugin helps you use the Apple Push Notification system.
 
 ## Installing
 
-<strike>Install as a gem:</strike> Gem installation is currently broken. Install as a plugin for now.
-
-    # Add to config/environment.rb:
-    config.gem "apple_push_notification", :source => "http://gemcutter.org/"
-
-    # At command prompt:
-    $ sudo rake gems:install
-
-or as a plugin:
+Install as a plugin:
 
     $ script/plugin install git://github.com/samsoffes/apple_push_notification.git
 
